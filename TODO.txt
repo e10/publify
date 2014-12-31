@@ -5,3 +5,4 @@ AdminSidebar:
 - CSS
 - Remove on staged/active sidebars
 - Maybe some animations
+- Make is run on OpenShift
